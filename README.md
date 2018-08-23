@@ -17,6 +17,7 @@
  0.安装python3 https://www.python.org/downloads/ <br />
  1.安装tensorflow https://www.tensorflow.org/install/install_linux?hl=zh-cn <br />
  2.安装Flask  <br />
- 3.模型已经训练好,斐讯图片验证码识别在99.95% <br />
- 4.接口地址 http://localhost:5000/vcode <br />
+ 3.启动 captchaCnnAPI.py
+ x.模型已经训练好(1.0captcha.model-30000.data-00000-of-00001 文件),斐讯图片验证码识别在99.95% <br />
+ x.接口地址 http://localhost:5000/vcode <br />
  
